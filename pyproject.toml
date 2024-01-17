@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "ndid"
+version = "0.01"
+description = "Pythonic Interface(unofficial) to NDID (https://www.ndid.co.th/)"
+authors = ["Nutchanon Ninyawee <nutchanon@codustry.com>"]
+license = "ISC"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12"
+httpx = "^0.26.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

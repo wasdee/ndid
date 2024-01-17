@@ -1,0 +1,3 @@
+[submodule "Playground/Node"]
+	path = Playground/Node
+	url = https://github.com/ndidplatform/smart-contract.git
